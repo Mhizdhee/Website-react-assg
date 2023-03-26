@@ -1,3 +1,49 @@
+<!-- 2.List five significant features of React -->
+
+1. JSX(JavaScript Syntax Extension)
+2. Virtual DOM
+3. One-way Data Binding
+4. Conditional Statements
+5. Components
+
+<!--3. List five major advantages of React
+ -->
+1. It helps to write less codes and do more.
+2.It improved performance.
+3.It is declarative.
+4.It is composable.
+5.Stable Code Structure 
+
+<!-- 4.What is the name of the Software Engineer that created React? Also, which company owns React? -->
+
+It was created by Jordan Walke, a software engineer at facebook. Facebook/Meta owns React.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
