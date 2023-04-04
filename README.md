@@ -18,7 +18,15 @@
 
 It was created by Jordan Walke, a software engineer at facebook. Facebook/Meta owns React.
 
+<!--5-- What is the notable difference between Html and Jsx? Give atleast 3 of them -->
 
+1.It is possible to write JavaScript directly in Jsx. You can do this by putting the JavaScript in curly braces {...}. Whereas in HTML, you need a script tag or an external JavaScript file to implement JavaScript
+2.Tags can self-close in JSX while Self-closing tags in HTML can self-close without the slash before the right angle bracket, that is <br /> could work as <br>.
+3.You create a class names as className in Jsx and for attributes for labels you write "HTMLFor" while in Html, class name is written as class.
+4.In JSx you write all HTML attributes and event references in camelCase So, onclick becomes onClick, onmouseover becomes onMouseOver while in Html, it is written in small case.
+
+<!--6-- Why can't browsers read JSX -->
+Browsers can't read Jsx because JSX is not valid JavaScript, they do not know what to do with it, so we need a transpiler to translate it to React, any file that contains JSX files will be converted into JavaScript objects by Babel transpiler. Thus, browsers understands the code and executes.
 
 
 
